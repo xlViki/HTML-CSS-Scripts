@@ -1,0 +1,8 @@
+<picture>
+  <source 
+    media="(min-width: 650px)"
+    srcset="images/kitten-stretching.png">
+  <img 
+    src="BXLogo.png"
+    alt="logo">
+</picture>
